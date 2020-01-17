@@ -1,0 +1,2 @@
+roles:
+  - load-balancing
